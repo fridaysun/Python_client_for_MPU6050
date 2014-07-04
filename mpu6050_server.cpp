@@ -1,5 +1,6 @@
 #include "includes.h"
-#include "server.cpp"
+//#include "server.cpp"
+#include "server_group.cpp"
 #include <stdio.h>
 #include <iostream>
 #include <string>
